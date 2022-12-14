@@ -9,7 +9,7 @@
 $databases = ['billing'];
 $user = "waterdistrict";
 $pass = "buenawaters";
-$host = "192.168.1.9";
+$host = "192.168.1.34";
 date_default_timezone_set("Asia/Singapore");
 
 if(!file_exists("D:/PublicFiles/db_backups/billingDB")){
